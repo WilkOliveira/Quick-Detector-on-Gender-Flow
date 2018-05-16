@@ -1,0 +1,90 @@
+<div>
+    <div layout="row" layout-align="center center">
+        <md-card layout="column" layout-align="center center" flex="auto" width="50%">
+            <md-toolbar layout="row" layout-align="space-between center" layout-padding class="md-primary md-hue-2">
+                <div layout="column">
+                    <img src="assets/default/images/usp.png">
+                </div>
+                <div layout="row" layout-align="center center">
+                    <label>Estudo sobre Experiência de Fluxo em Ambientes Educacionais Gamificados</label>
+                </div>
+                <div layout="column" layout-align="end end">
+                    <img src="assets/default/images/virtualize-games.png">
+                </div>
+            </md-toolbar>
+            <md-divider>
+                <md-card-content layout-padding layout-margin ng-show="!start">
+                    <label><b>Termo de Consentimento Livre e Esclarecido</b></label>
+                    <br>
+                        <p>Você está sendo convidado(a) a participar, como voluntário(a), de um estudo cujo o objetivo é analisar a experiência de fluxo em Ambientes Educacionais Gamificados.</p>
+                        <p>Você foi selecionado(a) de forma arbitrária e sua participação não é obrigatória. A qualquer momento, você poderá desistir de participar deste estudo. Sua recusa, desistência ou retirada de consentimento não acarretará prejuízo. A princípio, este estudo não possui nenhum risco para seus participantes.
+                        O participante deste estudo não será remunerado. Além disso, a participação no mesmo não implica em nenhum gasto para os participantes. No entanto, não nos responsabilizamos por quaisquer problemas técnicos que possam vir a ocorrer durante a execução desta pesquisa.</p>
+                        <p>Sua participação nesta pesquisa consistirá em executar três atividades. Primeiro, responder um questionário psicométrico sobre experinência de fluxo composto por 36 questões, e na sequencia, completar uma sequ~encia de atividades em um protótipo de um Ambiente Educacional Gamificado, e por fim, responder um questionário similar ao primeiro.</p>
+                        <p>Durante a execução, somente suas respostas serão levadas em consideração. Todo o processo tem duração aproximada de 15 minutos. Os dados obtidos por meio desta pesquisa serão confidenciais e não serão divulgados em nível individual, visando assegurar o sigilo de sua participação. Os pesquisadores responsáveis se comprometeram a tornar públicos nos meios acadêmicos e científicos os resultados obtidos de forma consolidada sem qualquer identificação dos indivíduos participantes.</p>
+                    
+                        <p>A qualquer momento você poderá contactar o estudante responsável através do endereço eletrônico <a href="mailto:wilk.oliveira@usp.br?Subject=Estudo%20Sobre%20Flow" target="_top">wilk.oliveira@usp.br</a>, onde você poderá tirar suas dúvidas sobre o projeto e sobre sua participação nele.</p>
+                        <p> Caso você concorde em participar desta pesquisa, basta marcar o campo abaixo para prosseguir.</p>
+                    <md-checkbox ng-click="start=true; setTime()"><b>Declaro que entendi os objetivos, riscos e benefícios de minha participação na pesquisa, e que concordo em participar.</b></md-checkbox>
+                </md-card-content>
+        </md-card>
+    </div>
+    <div layout="row" layout-align="center center" ng-show="start" class="bg">
+        <md-card layout="column" layout-align="center center" flex="auto" width="50%">
+            <md-card-title layout="column">
+                <h2>Etapa I - Questionário Inicial</h2>
+                <p>Responda as questões abaixo marcando as alternativas que mais se aproximam do estado em que você se encontra.</p>
+            </md-card-title>
+            <md-card-content>
+                <form>
+                    <div layout="row">
+                        <md-input-container class="md-block" flex-gt-sm>
+                            <label ng-required="true">Sexo</label>
+                            <md-select ng-required="true" ng-model="gender">
+                                <md-option ng-repeat="g in ['Masculino','Feminino', 'Prefiro não Responder']">
+                                    {{g}}
+                                </md-option>
+                            </md-select>
+                        </md-input-container>
+                        <md-input-container class="md-block" flex-gt-sm>
+                            <label>Idade</label>
+                            <md-select ng-model="age">
+                                <md-option ng-repeat="a in ['Menos de 12','12','13','14','15','16','17','18','19','20','21','22','23','24','25','26','27','28','29','30','Mais de 30']">
+                                    {{a}}
+                                </md-option>
+                            </md-select>
+                        </md-input-container>
+                    </div>
+                    <div ng-repeat="q in questions">
+                        <h3>{{q}}</h3>
+                        <div layout="row">
+                            <p>Absolutamente Não </p>
+                            <md-radio-group ng-model="answers[$index]" layout="row" class="md-primary">
+                                <label>1</label>
+                                <md-radio-button value="1" aria-label="option 1"></md-radio-button>
+                                <label>2</label>
+                                <md-radio-button value="2" aria-label="option 2"></md-radio-button>
+                                <label>3</label>
+                                <md-radio-button value="3" aria-label="option 3"></md-radio-button>
+                                <label>4</label>
+                                <md-radio-button value="4" aria-label="option 4"></md-radio-button>
+                                <label>5</label>
+                                <md-radio-button value="5" aria-label="option 5"></md-radio-button>
+                                <label>6</label>
+                                <md-radio-button value="6" aria-label="option 6"></md-radio-button>
+                                <label>7</label>
+                                <md-radio-button value="7" aria-label="option 7"></md-radio-button>
+                            </md-radio-group>
+                            <p>Muitíssimo</p>
+                        </div>
+                        </p>
+                        </p>
+                        <md-divider></md-divider>
+                    </div>
+                    <md-button ng-click="processAnswers()" type="submit" class="md-raised md-primary">Próxima Etapa</md-button>
+                    <span>{{msg}}
+                    </span>
+                </form>
+            </md-card-content>
+        </md-card>
+    </div>
+</div>

@@ -1,0 +1,48 @@
+<div layout-padding>
+    <div layout="row" layout-align="center center" >
+        <md-card layout="column" layout-align="center center" flex="auto" width="50%">
+            <md-toolbar layout="row" layout-align="center center" layout-padding class="md-primary md-hue-2">
+                <label>Etapa III - Questionário Final</label>
+            </md-toolbar>
+        </md-card>
+    </div>
+    <div layout="row" layout-align="center center" class="bg">
+        <md-card layout="column" layout-align="center center" flex="auto" width="50%">
+            <md-card-title>
+                <p> Para finalizar, responda as questões abaixo marcando as alternativas que melhor se adequem ao seu estado psicológico atual.</p>
+            </md-card-title>
+            <md-card-content>
+                <form>
+                    <div ng-repeat="q in questions">
+                        <h3>{{q}}</h3>
+                        <div layout="row">
+                            <p>Absolutamente Não </p>
+                            <md-radio-group ng-model="answers[$index]" layout="row" class="md-primary">
+                                <label>1</label>
+                                <md-radio-button value="1" aria-label="option 1"></md-radio-button>
+                                <label>2</label>
+                                <md-radio-button value="2" aria-label="option 2"></md-radio-button>
+                                <label>3</label>
+                                <md-radio-button value="3" aria-label="option 3"></md-radio-button>
+                                <label>4</label>
+                                <md-radio-button value="4" aria-label="option 4"></md-radio-button>
+                                <label>5</label>
+                                <md-radio-button value="5" aria-label="option 5"></md-radio-button>
+                                <label>6</label>
+                                <md-radio-button value="6" aria-label="option 6"></md-radio-button>
+                                <label>7</label>
+                                <md-radio-button value="7" aria-label="option 7"></md-radio-button>
+                            </md-radio-group>
+                            <p>Muitíssimo</p>
+                        </div>
+                        </p>
+                        </p>
+                        <md-divider></md-divider>
+                    </div>
+                    <md-button ng-click="processAnswers()" type="submit" class="md-raised md-primary">Finalizar!</md-button>
+                    <span>{{msg}}</span>
+                </form>
+            </md-card-content>
+        </md-card>
+    </div>
+</div>
