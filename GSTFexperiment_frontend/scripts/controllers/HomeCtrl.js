@@ -23,23 +23,23 @@ angular.module('tutor').controller("HomeCtrl", function($scope, $location, $mdDi
     var levelTenFlag = true;
 
     var users = [{
-        name: "Alan",
+        name: "Nadir",
         points: 79,
         avatar: "assets/" + configService.getTheme() + "/images/ranking1.png"
     }, {
-        name: "Valentine",
+        name: "Noa",
         points: 75,
         avatar: "assets/" + configService.getTheme() + "/images/ranking2.png"
     }, {
-        name: "Francis",
+        name: "Duda",
         points: 63,
         avatar: "assets/" + configService.getTheme() + "/images/ranking3.png"
     }, {
-        name: "Danni",
+        name: "Taylor",
         points: 27,
         avatar: "assets/" + configService.getTheme() + "/images/ranking4.png"
     }, {
-        name: "Alex",
+        name: "Akira",
         points: totalPoints,
         avatar: userAvatar
     }];
@@ -58,7 +58,7 @@ angular.module('tutor').controller("HomeCtrl", function($scope, $location, $mdDi
     $scope.showQuestions = false;
 
     $scope.getUserColor = function(name) {
-        if (name == "Alex")
+        if (name == "Akira")
             return "#e0e0e0";
         return "white";
     };
@@ -257,23 +257,23 @@ angular.module('tutor').controller("HomeCtrl", function($scope, $location, $mdDi
 
         //updates ranking
         users = [{
-            name: "Alan",
+            name: "Nadir",
             points: 79,
             avatar: "assets/" + configService.getTheme() + "/images/ranking1.png"
         }, {
-            name: "Valentine",
+            name: "Noa",
             points: 75,
             avatar: "assets/" + configService.getTheme() + "/images/ranking2.png"
         }, {
-            name: "Francis",
+            name: "Duda",
             points: 63,
             avatar: "assets/" + configService.getTheme() + "/images/ranking3.png"
         }, {
-            name: "Danni",
+            name: "Taylor",
             points: 27,
             avatar: "assets/" + configService.getTheme() + "/images/ranking4.png"
         }, {
-            name: "Alex",
+            name: "Akira",
             points: totalPoints,
             avatar: userAvatar
         }];

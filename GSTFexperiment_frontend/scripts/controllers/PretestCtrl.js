@@ -1,21 +1,27 @@
 angular.module('tutor').controller("PretestCtrl", function($scope, $window, $location, configService, User) {
 
-    var themes = ["default", "stFemale", "stMale"];
+    var themes = ["default", "stFemale", "stMale"]; // define os layouts possíveis de serem carregados
 
-    var random = Math.floor((Math.random() * 10000)) % 3;
+    var random = Math.floor((Math.random() * 10000)) % 3; // randomiza a escolha do layout a ser usado
 
-    $scope.questions = ["Questão 1", "Questão 2", "Questão 3", "Questão 4", "Questão 5", "Questão 6", "Questão 7", "Questão 8", "Questão 9", "Questão 10", "Questão 11", "Questão 12", "Questão 13", "Questão 14", "Questão 15", "Questão 16", "Questão 17", "Questão 18", "Questão 19", "Questão 20", "Questão 21", "Questão 22", "Questão 23", "Questão 24", "Questão 25", "Questão 26", "Questão 27", "Questão 28", "Questão 29", "Questão 30", "Questão 31", "Questão 32", "Questão 33", "Questão 34", "Questão 35", "Questão 36"];
-    $scope.answers = [];
+    $scope.questions = ["Questão 1", "Questão 2", "Questão 3", "Questão 4", "Questão 5", "Questão 6", "Questão 7", "Questão 8", "Questão 9", "Questão 10", "Questão 11", "Questão 12", "Questão 13", "Questão 14", "Questão 15", "Questão 16", "Questão 17", "Questão 18", "Questão 19", "Questão 20", "Questão 21", "Questão 22", "Questão 23", "Questão 24", "Questão 25", "Questão 26", "Questão 27", "Questão 28", "Questão 29", "Questão 30", "Questão 31", "Questão 32", "Questão 33", "Questão 34", "Questão 35", "Questão 36"]; // define as questões
+    $scope.answers = []; // recebe as respostas
 
+    /*
+    Função para guardar o tempo do usuário no sistema
+    */
     $scope.setTime = function() {
         var time = new Date().getTime();
         User.setStartTime(time);
     };
 
+    /*
+    Função para processar as respostas dos usuários
+    */
     $scope.processAnswers = function() {
 
-        //console.log($scope.answers);
-        //  validation
+        // console.log($scope.answers);
+        // validation
         if ($scope.answers.length < 2) {
             $scope.msg = "Por favor, responda todas as perguntas!"
         } else {

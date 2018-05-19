@@ -4,21 +4,36 @@
             <h1>Resultado:</h1>
             <div layout="row" layout-align="center center" layout-margin>
                 <div layout="column" layout-align="center center">
-                    <label><b>Meu Nível de Ansiedade</b></label>
+                    <label><b>Meu Nível de Flow</b></label>
                     <canvas-gauge width="350" under-color="#EFEFEF" over-color="#FF4500" value="userAnxiety" mask="(@)" style="color: gray"></canvas-gauge>
                 </div>
                 <div layout="column" layout-align="center center">
-                    <label><b>Outros Usuários</b></label>
+                    <label><b> Nível de Flow de Outros Usuários</b></label>
                     <canvas-gauge width="350" under-color="#EFEFEF" over-color="#00D700" value="populationAnxiety" mask="(@)" style="color: gray"></canvas-gauge>
                 </div>
             </div>
         </md-card-content>
     </md-card>
+
+    <!-- Início do novo códido da API do Facebook -->
+    <div id="fb-root"></div>
+        <script>(function(d, s, id) {
+            var js, fjs = d.getElementsByTagName(s)[0];
+            if (d.getElementById(id)) return;
+            js = d.createElement(s); js.id = id;
+            js.src = 'https://connect.facebook.net/pt_BR/sdk.js#xfbml=1&version=v3.0';
+            fjs.parentNode.insertBefore(js, fjs);
+        }(document, 'script', 'facebook-jssdk'));</script>
+    <!-- Final do novo código da API do Facebook -->
+
+    <!-- Início do novo botão de compartilhamento no Facebook -->
     <div layout-margin>
-        <span>Contribua ainda mais com este estudo compartilhando-o no Facebook:</span>
+        <span>Mostre para seus amigos seu nível de concentração e deixe eles também fazerem o teste:</span>
         <div layout="column" layout-align="center center">
-            <div id="shareBtn" class="btnz facebook" ng-click="share()">Compartilhar no Facebook</div>
+            <div id="shareBtn" class="btnz facebook" data-href="http://experimentosocial.virtualizegames.com/" data-layout="button" data-size="large" data-mobile-iframe="false"><a target="_blank" href="https://www.facebook.com/sharer/sharer.php?u=http%3A%2F%2Fexperimentosocial.virtualizegames.com%2F&amp;src=sdkpreparse" class="fb-xfbml-parse-ignore">Compartilhar</a></div>
             <h2> Obrigado!</h2>
         </div>
+    <!-- Final do novo botão de compartilhamento no Facebook -->
+    
     </div>
 </div>
