@@ -4,7 +4,7 @@ angular.module('tutor').controller("PretestCtrl", function($scope, $window, $loc
 
     var random = Math.floor((Math.random() * 10000)) % 3; // randomiza a escolha do layout a ser usado
 
-    $scope.questions = ["Questão 1", "Questão 2", "Questão 3", "Questão 4", "Questão 5", "Questão 6", "Questão 7", "Questão 8", "Questão 9", "Questão 10", "Questão 11", "Questão 12", "Questão 13", "Questão 14", "Questão 15", "Questão 16", "Questão 17", "Questão 18", "Questão 19", "Questão 20", "Questão 21", "Questão 22", "Questão 23", "Questão 24", "Questão 25", "Questão 26", "Questão 27", "Questão 28", "Questão 29", "Questão 30", "Questão 31", "Questão 32", "Questão 33", "Questão 34", "Questão 35", "Questão 36"]; // define as questões
+    $scope.questions = ["Eu sinto que sou competente o suficiente para atender às altas exigências das situações", "Eu faço as coisas de forma espontânea e automática sem ter que pensar.", "Eu tenho um forte sentimento do que eu quero fazer.", "Durante uma atividade eu tenho noção de quão bem estou indo.", "Eu fico completamente focado nas tarefas que tenho.", "Eu tenho sensação de controle total.", "Eu não estou preocupado com o que os outros podem estar pensando de mim.", "A maneira como o tempo passa parece ser diferente do normal.", "A experiência é extremamente recompensadora."]; // define as questões
     $scope.answers = []; // recebe as respostas
 
     /*
