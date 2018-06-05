@@ -1,6 +1,6 @@
 angular.module('tutor').controller("PosttestCtrl", function($scope, $location, User) {
 
-    $scope.questions = ["Questão 1", "Questão 2", "Questão 3", "Questão 4", "Questão 5", "Questão 6", "Questão 7", "Questão 8", "Questão 9", "Questão 10", "Questão 11", "Questão 12", "Questão 13", "Questão 14", "Questão 15", "Questão 16", "Questão 17", "Questão 18", "Questão 19", "Questão 20", "Questão 21", "Questão 22", "Questão 23", "Questão 24", "Questão 25", "Questão 26", "Questão 27", "Questão 28", "Questão 29", "Questão 30", "Questão 31", "Questão 32", "Questão 33", "Questão 34", "Questão 35", "Questão 36"];
+    $scope.questions = ["Eu senti que era competente o suficiente para atender às altas exigências da situação", "Eu fiz as coisas de forma espontânea e automática sem ter que pensar.", "Eu tive um forte sentimento do que eu queria fazer.", "Durante a atividade eu tive noção de quão bem estava indo.", "Eu fiquei completamente focado nas tarefas que tiham.", "Eu tive sensação de controle total.", "Eu não fiquei preocupado com o que os outros podiam estar pensando de mim.", "A maneira como o tempo passou pareceu ser diferente do normal.", "A experiência foi extremamente recompensadora."];
     $scope.answers = [];
 
     $scope.processAnswers = function() {
