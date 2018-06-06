@@ -103,10 +103,10 @@ tutorServices.service("User", function($http) {
     };
 
     this.save = function() {
-        $http.defaults.headers.post["Content-Type"] = "application/x-www-form-urlencoded";
+        $http.defaults.headers.post["Content-Type"] = "application/JSON";
 
         $http({
-            url: "http://162.243.222.205:8282/back/CapstoneServlet",
+            url: "http://localhost:57708/api/response",
             method: "POST",
             data: JSON.stringify(resp)
         }).then(function(response) {
