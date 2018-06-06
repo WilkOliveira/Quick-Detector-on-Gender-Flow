@@ -1,0 +1,241 @@
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\csc.exe
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\desktop.ini
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\vbc.exe
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\ProductManager.dll.config
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\ProductManager.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\ProductManager.pdb
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Hosting.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Newtonsoft.Json.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Owin.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.Owin.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.SelfHost.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Hosting.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.Owin.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.SelfHost.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Newtonsoft.Json.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.csprojResolveAssemblyReference.cache
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.pdb
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Cors.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Cors.dll
+C:\Users\Claudinei\Google Drive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Cors.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\csc.exe
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\System.Collections.Immutable.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\System.Reflection.Metadata.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\vbc.exe
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\VBCSCompiler.exe
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\VBCSCompiler.exe.config
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\desktop.ini
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\ProductManager.dll.config
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\ProductManager.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\ProductManager.pdb
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Cors.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.HttpListener.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Hosting.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Newtonsoft.Json.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Owin.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Net.Http.Formatting.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Cors.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.Owin.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.SelfHost.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.WebHost.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Cors.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.HttpListener.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Hosting.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.Owin.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.SelfHost.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Newtonsoft.Json.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Net.Http.Formatting.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.WebHost.xml
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.csprojResolveAssemblyReference.cache
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.pdb
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlcese40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlceqp40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlceme40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlceer40EN.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlcecompact40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlceca40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlcese40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlceqp40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlceme40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlceer40EN.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlcecompact40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlceca40.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+D:\GoogleDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Data.SqlServerCe.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\csc.exe
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\desktop.ini
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\vbc.exe
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\VBCSCompiler.exe
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\ProductManager.dll.config
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\ProductManager.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\ProductManager.pdb
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlcese40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlceqp40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlceme40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlceer40EN.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlcecompact40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\sqlceca40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlcese40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlceqp40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlceme40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlceer40EN.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlcecompact40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\sqlceca40.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Cors.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Hosting.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Newtonsoft.Json.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Owin.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Data.SqlServerCe.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Net.Http.Formatting.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Cors.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.Owin.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.SelfHost.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.WebHost.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Cors.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Microsoft.Owin.Hosting.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.Owin.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.SelfHost.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\Newtonsoft.Json.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Net.Http.Formatting.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\bin\System.Web.Http.WebHost.xml
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.csprojResolveAssemblyReference.cache
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.csproj.CoreCompileInputs.cache
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.csproj.CopyComplete
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.dll
+C:\Users\Claudinei B Jr\OneDrive\Ciência da computação\7º Semestre\Tópicos Especiais 1\Exercícios\ProductManager\ProductManager\obj\Debug\ProductManager.pdb
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\obj\Debug\ProductManager.csprojResolveAssemblyReference.cache
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\obj\Debug\ProductManager.csproj.CoreCompileInputs.cache
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\obj\Debug\ProductManager.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\obj\Debug\ProductManager.pdb
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\csc.exe
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\desktop.ini
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\System.Collections.Immutable.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\System.Reflection.Metadata.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\vbc.exe
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\VBCSCompiler.exe
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\roslyn\VBCSCompiler.exe.config
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\ProductManager.dll.config
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\ProductManager.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\ProductManager.pdb
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\x86\sqlcese40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\x86\sqlceqp40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\x86\sqlceme40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\x86\sqlceer40EN.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\x86\sqlcecompact40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\x86\sqlceca40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\x86\Microsoft.VC90.CRT\README_ENU.txt
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\x86\Microsoft.VC90.CRT\msvcr90.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\amd64\sqlcese40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\amd64\sqlceqp40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\amd64\sqlceme40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\amd64\sqlceer40EN.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\amd64\sqlcecompact40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\amd64\sqlceca40.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\amd64\Microsoft.VC90.CRT\README_ENU.txt
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\amd64\Microsoft.VC90.CRT\msvcr90.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\x86\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\amd64\Microsoft.VC90.CRT\Microsoft.VC90.CRT.manifest
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.Cors.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.Host.HttpListener.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.Hosting.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Newtonsoft.Json.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Owin.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Data.SqlServerCe.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Net.Http.Formatting.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Web.Cors.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Web.Http.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Web.Http.Owin.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Web.Http.SelfHost.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Web.Http.WebHost.dll
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.Cors.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.Host.HttpListener.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Microsoft.Owin.Hosting.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Web.Http.Owin.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Web.Http.SelfHost.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Newtonsoft.Json.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Net.Http.Formatting.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Web.Http.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\System.Web.Http.WebHost.xml
+C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\obj\Debug\ProductManager.csproj.CopyComplete
