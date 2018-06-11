@@ -3,13 +3,15 @@
         <md-card-content>
             <h1>Resultado:</h1>
             <div layout="row" layout-align="center center" layout-margin>
-                <div layout="column" layout-align="center center">
+                <!-- Oculta parcialmente o nível de flow do usúario no pós teste.
+                    deverá voltar a ser exibido quando consegui capturar o nível de flow tant no pré-teste quanto no pós-teste-->
+                <!-- <div layout="column" layout-align="center center">
                     <label><b>Nível flow antes de usar o sistema</b></label>
-                    <canvas-gauge width="350" under-color="#EFEFEF" over-color="#FF4500" value="userAnxiety" mask="(@)" style="color: gray"></canvas-gauge>
-                </div>
+                    <canvas-gauge width="350" under-color="#EFEFEF" over-color="#FF4500" value="populationAnxiety" mask="(@)" style="color: gray"></canvas-gauge>
+                </div> -->
                 <div layout="column" layout-align="center center">
-                    <label><b>Nível flow após usar o sistema</b></label>
-                    <canvas-gauge width="350" under-color="#EFEFEF" over-color="#00D700" value="populationAnxiety" mask="(@)" style="color: gray"></canvas-gauge>
+                    <label><b>Seu Nível de Flow</b></label>
+                    <canvas-gauge width="350" under-color="#EFEFEF" over-color="#00D700" value="userAnxiety" mask="(@)" style="color: gray"></canvas-gauge>
                 </div>
             </div>
         </md-card-content>
