@@ -127,7 +127,7 @@
                 $scope.$watch('val', function(newval, oldval) { 
 
                     $scope.min = attrs.min || 0;
-                    $scope.max = attrs.max || 100;
+                    $scope.max = attrs.max || 45;
                     $scope.underColor = attrs.underColor || '#EFEFEF';
                     $scope.overColor = attrs.overColor || '#000';
                     $scope.textColor = attrs.textColor || $scope.overColor
