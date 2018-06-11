@@ -106,7 +106,7 @@ tutorServices.service("User", function($http) {
         $http.defaults.headers.post["Content-Type"] = "application/JSON";
 
         $http({
-            url: "http://localhost:57708/api/response",
+            url: "http://wilkoliveira.somee.com/api/response",
             method: "POST",
             data: JSON.stringify(resp)
         }).then(function(response) {

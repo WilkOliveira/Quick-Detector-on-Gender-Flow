@@ -6,7 +6,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
 <Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
   <PropertyGroup>
     <TimeStampOfAssociatedLegacyPublishXmlFile />
-    <_PublishTargetUrl>C:\wamp\www\GSTFProject\GSTFexperiment_backend\ProductManager\bin\Release\PublishOutput</_PublishTargetUrl>
+    <_PublishTargetUrl>C:\wamp\www\GSTFProject\GSTFexperiment_backend\ResponseManager\ProductManager\bin\Release\PublishOutput</_PublishTargetUrl>
   </PropertyGroup>
   <ItemGroup>
     <File Include="bin/amd64/Microsoft.VC90.CRT/Microsoft.VC90.CRT.manifest">
@@ -61,10 +61,10 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/16/2018 15:59:10</publishTime>
     </File>
     <File Include="bin/ProductManager.dll">
-      <publishTime>06/05/2018 21:45:40</publishTime>
+      <publishTime>06/05/2018 21:55:19</publishTime>
     </File>
     <File Include="bin/ProductManager.pdb">
-      <publishTime>06/05/2018 21:45:40</publishTime>
+      <publishTime>06/05/2018 21:55:19</publishTime>
     </File>
     <File Include="bin/roslyn/csc.exe">
       <publishTime>05/16/2018 15:59:10</publishTime>
@@ -160,7 +160,7 @@ by editing this MSBuild file. In order to learn more about this please visit htt
       <publishTime>05/16/2018 15:59:09</publishTime>
     </File>
     <File Include="Web.config">
-      <publishTime>06/05/2018 21:45:40</publishTime>
+      <publishTime>06/05/2018 21:55:20</publishTime>
     </File>
   </ItemGroup>
 </Project>
