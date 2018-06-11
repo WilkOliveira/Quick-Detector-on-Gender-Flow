@@ -1,7 +1,7 @@
 angular.module('tutor').controller("FinishCtrl", function($scope, User) {
 
-    $scope.populationAnxiety = 40.1 * 100 / 80;
-    $scope.userAnxiety = User.getAnxiety() * 100 / 80;
+    $scope.populationAnxiety = User.getAnxiety();
+    $scope.userAnxiety = User.getAnxiety();
 
     /* Comentando para ocultar antiga configuraçção de compartilhamento com o Facebook
 
