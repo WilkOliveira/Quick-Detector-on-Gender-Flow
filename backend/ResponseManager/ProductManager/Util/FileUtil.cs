@@ -10,7 +10,7 @@ namespace ProductManager.Util {
     public static class FileUtil {
 
         public static string getContentFile() {
-            return File.ReadAllText("d:\\DZHosts\\LocalUser\\wilkoliveira\\www.wilkoliveira.somee.com\\config.ini");
+            return File.ReadAllText(Environment.GetFolderPath(Environment.SpecialFolder.MyDocuments) + "\\config_CSVPath.ini");
         }
 
         public static void appendToCSVFile(Response response, string pathCSVFile) {
